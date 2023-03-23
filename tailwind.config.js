@@ -9,7 +9,7 @@ module.exports = {
       },
       colors: {
         'hoverpst': '#18D760',
-        'purple-main': '#2D4689',
+        'purple-main': '#2D46B9',
         'green-main': '#1ed760',
       },
       backgroundImage: theme => ({
